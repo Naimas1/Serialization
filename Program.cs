@@ -22,6 +22,7 @@
             {
                 Console.WriteLine(number);
             }
+            Console.ReadKey();
         }
     }
 }
